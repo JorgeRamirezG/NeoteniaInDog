@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 16px;
+  text-shadow: none;
+  font-weight: normal;
+  text-align: start;
+  text-transform: none;
+  background-color: black; }
+
+html, body, header, main, footer {
+  min-width: 546px; }
+
+footer {
+  padding: 10px 50px;
+  background-color: #131313; }
+
+h1, h2, p, span, .aporte {
+  text-shadow: 1px 1px 5px #000000, -1px -1px 5px #000000; }
+
+h1, h2, h3 {
+  margin: 0; }
+
+p {
+  font-size: 14px;
+  line-height: 1.3;
+  margin: 0;
+  padding: 10px 15px 10px 15px; }
+
+h1 {
+  height: 40px; }
+  h1 span {
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    font-weight: 700; }
+
+h2 {
+  margin: 10px;
+  height: auto; }
+  h2 span {
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    font-weight: 700; }
+
+a {
+  text-decoration: none;
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-weight: normal;
+  text-align: start;
+  text-transform: none; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+button {
+  background: none;
+  border: 0;
+  color: inherit;
+  /* cursor: default; */
+  font: inherit;
+  line-height: normal;
+  overflow: visible;
+  padding: 0; }
+
+/*# sourceMappingURL=_base.css.map */
